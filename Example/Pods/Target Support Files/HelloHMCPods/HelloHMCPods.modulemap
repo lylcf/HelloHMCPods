@@ -1,0 +1,6 @@
+framework module HelloHMCPods {
+  umbrella header "HelloHMCPods-umbrella.h"
+
+  export *
+  module * { export * }
+}

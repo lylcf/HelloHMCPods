@@ -59,14 +59,14 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		71719F9E1E33DC2100824A3D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		7FE00CE2CD86208172931730 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		7FE00CE2CD86208172931730 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		87D3CB829F2948545F3FB42F /* HelloHMCPods.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HelloHMCPods.podspec; path = ../HelloHMCPods.podspec; sourceTree = "<group>"; };
+		87D3CB829F2948545F3FB42F /* HelloHMCPods.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HelloHMCPods.podspec; path = ../HelloHMCPods.podspec; sourceTree = "<group>"; };
 		9487B308088C35B3F90EC89A /* Pods_HelloHMCPods_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HelloHMCPods_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD82092B2BF00005F26CEC1B /* Pods-HelloHMCPods_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloHMCPods_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HelloHMCPods_Tests/Pods-HelloHMCPods_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		DD79B9BCA6D5526DA7883050 /* Pods-HelloHMCPods_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloHMCPods_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HelloHMCPods_Tests/Pods-HelloHMCPods_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		F4655D35B9A46209386E8591 /* Pods-HelloHMCPods_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HelloHMCPods_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-HelloHMCPods_Example/Pods-HelloHMCPods_Example.release.xcconfig"; sourceTree = "<group>"; };
-		F499D14F25163277A33BB0AA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		F499D14F25163277A33BB0AA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -257,6 +257,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

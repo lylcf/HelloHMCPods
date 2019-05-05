@@ -1,0 +1,16 @@
+PODS:
+  - HelloHMCPods (0.1.0)
+
+DEPENDENCIES:
+  - HelloHMCPods (from `../`)
+
+EXTERNAL SOURCES:
+  HelloHMCPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HelloHMCPods: 5eea186d820ddaa8b0e9d45f1430b2c75ca3aa97
+
+PODFILE CHECKSUM: d64330d71a1b92f8a811f66d12f364e6b681c5c1
+
+COCOAPODS: 1.5.3
